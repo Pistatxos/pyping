@@ -1,6 +1,6 @@
 # pyping
 
-Controla tus dispositivos haciendo "Ping" a ellos con python y además con aviso a Telegram de los cambios que tengan.
+Controla tus dispositivos haciendo "Ping" a ellos con python y además con aviso por Telegram de los cambios de conexión que tengan.
 
 
 Como hacer Ping a nuestros dispositivos:
